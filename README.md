@@ -1,0 +1,3 @@
+SemaJalon es un reporitorio universal para todo tipo de contenido, especializado en impresion 3D, lenguajes de programacion avanzado, lenguajes de marcas avanzados, proyectos comunitarios...
+ 
+Siempre abierto diversas opiniones para una mejoria personal y colectivo.
